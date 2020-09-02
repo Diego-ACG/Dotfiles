@@ -35,7 +35,7 @@
 
 # I3-Gaps
 
-![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/I3/example/example.png)
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/I3/examples/example.png)
 
 		- Terminal >>> Xfce4-terminal
 		- File Manager >>> Nemo/Ranger
