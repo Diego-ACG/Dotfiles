@@ -52,3 +52,19 @@
 		- Text Editor >>> Sublime/Vim
 		- Music View >> mpc
 		- Luke updates >>> pacman-contrib
+
+# I3_Purple
+
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/I3/examples/example2.png)
+
+		- Terminal >>> Xfce4-terminal
+		- File Manager >>> Nemo/Ranger
+		- Image view >>> feh
+		- Music Player >> Mpd/ncmpcpp
+		- Shell >>> Zsh
+		- Bar >>> Tint2
+		- Neofetch + w3m
+		- Composer >>> picom-rounded-corners
+		- Text Editor >>> Sublime/Vim
+		- Music View >> mpc
+		- Luke updates >>> pacman-contrib
