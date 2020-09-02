@@ -358,6 +358,19 @@ AddTitleStyle Colorset NN PP
 # Style
 #=================================
 
+DesktopSize 3x3
+DesktopName 0 1
+DesktopName 1 2
+DesktopName 2 3
+DesktopName 3 4
+DesktopName 4 5
+DesktopName 5 6
+
+DesktopName 6 7
+DesktopName 7 8
+DesktopName 8 9
+DesktopName 9 10
+
 # > Default Font
 DefaultFont "xft:Noto Sans:size=10"
 
