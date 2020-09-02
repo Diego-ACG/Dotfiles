@@ -20,6 +20,10 @@
 
 ![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Fvwm/example/example.png)
 
+# Fvwm Dark
+
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Fvwm/example/example2.png)
+
 # Programs used
 
 		- Terminal >>> Xfce4-terminal
