@@ -32,3 +32,19 @@
 		- Composer >>> picom-rounded-corners
 		- Text Editor >>> Sublime/Vim
 		- Thubnail >>> xorg-xwd/imagemagick
+
+# I3-Gaps
+
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/I3/example/example.png)
+
+		- Terminal >>> Xfce4-terminal
+		- File Manager >>> Nemo/Ranger
+		- Image view >>> feh
+		- Music Player >> Mpd/ncmpcpp
+		- Shell >>> Zsh
+		- Bar >>> I3blocks
+		- Neofetch + w3m
+		- Composer >>> picom-rounded-corners
+		- Text Editor >>> Sublime/Vim
+		- Music View >> mpc
+		- Luke updates >>> pacman-contrib
