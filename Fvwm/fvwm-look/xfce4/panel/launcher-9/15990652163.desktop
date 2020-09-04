@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Nemo
+Comment=Acesse e organize arquivos
+Exec=nemo %U
+Icon=folder
+Path=
+Terminal=false
+StartupNotify=false
