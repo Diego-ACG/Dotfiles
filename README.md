@@ -96,4 +96,4 @@
 		- Composer >>> picom-rounded-corners
 		- Text Editor >>> Sublime/Vim
 		- Music View >> mpc
-		- Luke updates >>> pacman-contrib
+		- Look updates >>> pacman-contrib
