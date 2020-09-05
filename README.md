@@ -1,5 +1,26 @@
 # Dotfiles
 
+# Xfwm4
+
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4/example/example.png)
+
+# Programs used
+
+		- Panel >>> Tint2
+		- Terminal >>> Xfce4-terminal
+		- File Manager >>> Nemo/Ranger
+		- Image view >>> feh
+		- Music Player >> Mpd/ncmpcpp/Audacious-Gtk
+		- Shell >>> Zsh
+		- Neofetch + w3m
+		- Composer >>> picom-rounded-corners
+		- Text Editor >>> Sublime/Vim
+
+# Notes regarding customization
+
+	In this customization, "Thunar" is not being used as a file manager, so "Xfce" loses some functions, such as! (Composer and active workspace). To get around this problem the solution is simple, just edit the .profile file, inside your home, if you don't have this file in your home, just create it, and add everything you would like to start with the system inside it. If you choose to use thunar, this is not necessary.
+
+
 # Herbstluftwm
 
 ![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Herbstluftwm/examples/example.png)
