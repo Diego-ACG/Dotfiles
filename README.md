@@ -18,7 +18,7 @@
 
 # Notes regarding customization
 
-	In this customization, "Thunar" is not being used as a file manager, so "Xfce" loses some functions, such as! (Composer and active workspace). To get around this problem the solution is simple, just edit the .profile file, inside your home, if you don't have this file in your home, just create it, and add everything you would like to start with the system inside it. If you choose to use thunar, this is not necessary.
+In this customization, "Thunar" is not being used as a file manager, so "Xfce" loses some functions, such as! (Composer and active workspace). To get around this problem the solution is simple, just edit the .profile file, inside your home, if you don't have this file in your home, just create it, and add everything you would like to start with the system inside it. If you choose to use thunar, this is not necessary.
 
 
 # Herbstluftwm
