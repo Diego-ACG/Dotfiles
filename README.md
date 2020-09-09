@@ -1,5 +1,37 @@
 # Dotfiles
 
+# Fvwm Play
+
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Fvwm-Play/examples/example.png)
+
+# Programs used
+
+		- Terminal >>> Xfce4-terminal
+		- File Manager >>> Thunar/Ranger
+		- Image view >>> feh/viewnior
+		- Music Player >> Mpd/ncmpcpp/mpc
+		- Shell >>> Zsh
+		- Neofetch + w3m
+		- Composer >>> picom-rounded-corners
+		- Text Editor >>> Sublime/Vim
+		- Thubnail >>> xorg-xwd/imagemagick
+		- Notify >>> Dunst
+		- ScreenShot >>> scrot
+
+# Window Functions
+
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Fvwm-Play/examples/functions.png)
+
+		- Red >>> Close
+		- Green >>> Maximize/Minimize
+		- Blue >>> Thumbnail
+		- Yellow >>> Time/Date/Whater
+		- Next >>> Next music "mpc"
+		- Play >>> Play music "mpc"
+		- Pause >>> Pause music "mpc"
+		- Prev >>> Prev music "mpc"
+		- Waves >>> Click left "mpd"/Click right "Kill mpd"
+
 # Xfwm4
 
 ![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4/example/example.png)
