@@ -2,7 +2,7 @@
 
 # Xfwm4-Tour
 
-![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4-Tour/example/example.png)
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4-Tour/examples/example.png)
 
 # Programs used
 
