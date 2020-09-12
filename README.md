@@ -2,9 +2,9 @@
 
 # Xfwm4-Like
 
-![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4-Like/example/example.png)
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4-Like/examples/example.png)
 
-![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4-Like/example2/example.png)
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4-Like/examples/example2.png)
 
 # Programs used
 
