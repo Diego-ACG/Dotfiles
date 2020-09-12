@@ -1,5 +1,21 @@
 # Dotfiles
 
+# Xfwm4-Like
+
+![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4-Like/example/example.png)
+
+# Programs used
+
+		- Panel >>> Tint2
+		- Terminal >>> Xfce4-terminal
+		- File Manager >>> Thunar/Ranger
+		- Image view >>> feh/viewnior
+		- Music Player >> Mpd/ncmpcpp/
+		- Shell >>> Zsh
+		- Neofetch + w3m
+		- Text Editor >>> Sublime/Vim
+		- Screenshot >>> scrot
+
 # Xfwm4-Hype
 
 ![alt text](https://github.com/Diego-ACG/Dotfiles/blob/master/Xfwm4-Hype/example/example.png)
